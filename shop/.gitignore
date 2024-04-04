@@ -1,0 +1,6 @@
+/venv
+/media
+/static/
+*.sqlite3
+*.log
+*.pyc
